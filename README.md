@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanoss222&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanoss222)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FramedStone)](https://github.com/anuraghazra/github-readme-stats)
 ##
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vanoss222&repo=mmu-timetable-enhancement&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
